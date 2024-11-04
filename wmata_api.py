@@ -38,4 +38,4 @@ def get_incidents(unit_type):
     return json.dumps(incidents)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True)   
