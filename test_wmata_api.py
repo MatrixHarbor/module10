@@ -39,4 +39,4 @@ class WMATATest(unittest.TestCase):
             self.assertEqual(incident["UnitType"], "ELEVATOR", "Expected UnitType 'ELEVATOR' in elevator response")
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main() 
