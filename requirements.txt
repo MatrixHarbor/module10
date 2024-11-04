@@ -1,3 +1,4 @@
 Flask==2.1.0
-requests==2.26.0
-> **Note**: You can adjust the versions if needed, but these versions should be compatible with your project. If you want the latest versions, you can just write `Flask` and `requests` without version numbers.
+#pytest==6.2.5
+requests==2.31
+Werkzeug==2.2.2
